@@ -65,5 +65,3 @@ Labels are normalized to handle variants:
 pip install pandas numpy nltk pyarabic emoji gensim scipy scikit-learn matplotlib seaborn
 
 ---
-
-## Project Structure (Suggested) 🗂️
